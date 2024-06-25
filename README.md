@@ -1,6 +1,6 @@
 <h1>Login e alteração de usuário</h1> 
 
-### Cypress, Javascript e CUCUMBER
+### Cypress, Javascript e Gherkin
 
 #### Respositório destinado a apresentação de um projeto pressoal introdutório, utilizando Cypress, Javascript e CUCUMBER.
 
