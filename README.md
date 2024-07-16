@@ -1,10 +1,22 @@
-<h1>Login e alteração de usuário</h1> 
+<h1>
+<br>
 
-### Cypress, Javascript e Gherkin
+<h1> Cypress - Javascript - CUCUMBER <h1>
 
-#### Respositório destinado a apresentação de um projeto pressoal introdutório, utilizando Cypress, Javascript e CUCUMBER.
+
+
+<div>
+  <a href=""><img src="https://asset.brandfetch.io/idIq_kF0rb/idGSuvAIy3.png" height="100em" target="blank"></a>
+  <a href=""><img src="https://tipscode.com.br/uploads/2020/01/js.png" height="100em" target="blank"></a>
+  <a href=""><img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_c40984fae76060168e91322094f05421/cucumber.png" height="100em" target="blank"></a>
+ 
+</div>
+
+#### Respositório destinado a apresentação de um projeto pessoal introdutório, utilizando Cypress, Javascript e CUCUMBER.
 
 ---
+<br>
+<h2>Login e alteração de usuário</h2> 
 
 ### O que a automação faz?
 
