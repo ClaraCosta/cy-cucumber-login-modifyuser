@@ -10,14 +10,13 @@
   "author": "Maria Clara",
   "license": "ISC",
   "dependencies": {
-    "cypress": "^13.12.0"
+    "cypress": "^13.13.3"
   },
   "devDependencies": {
     "cypress-cucumber-preprocessor": "^4.3.1"
   },
-  "cypress-cucumber-preprocessor":{
+  "cypress-cucumber-preprocessor": {
     "nonGlobalStepDefinitions": true,
     "stepDefinitions": "cypress/e2e/step_definitions"
-
   }
 }
